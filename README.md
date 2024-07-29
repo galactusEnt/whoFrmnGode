@@ -22,4 +22,4 @@ De asemenea, este prezentă și o secțiune unde jucătorul se poate antrena la 
 ## Structura Codului
 Jocul a fost realizat folosind tehnica OOP (_Object Oriented Programming_ - Programare pe obiecte)
 # Instalare
---TODO: Add itch.io link
+[Download from itch.io](https://galactus-entertainment.itch.io/whos-that-friendman)
